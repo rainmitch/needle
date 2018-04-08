@@ -1,0 +1,13 @@
+object Test : div
+{
+	Test ()
+	{
+		
+	}
+}
+
+
+void main ()
+{
+	Test t;
+}

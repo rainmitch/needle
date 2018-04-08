@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O2 -std=c++14 -Wall -g3 -pthread  -shared -Wl,-soname,libneedle.so -o libneedle.so CMakeFiles/libneedle.dir/src/dummy.cpp.o src/parser/libparser.a 

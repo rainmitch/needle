@@ -1,0 +1,7 @@
+/home/rain/Desktop/needle/build/CMakeFiles/edit_cache.dir
+/home/rain/Desktop/needle/build/CMakeFiles/libneedle.dir
+/home/rain/Desktop/needle/build/CMakeFiles/rebuild_cache.dir
+/home/rain/Desktop/needle/build/CMakeFiles/needle.dir
+/home/rain/Desktop/needle/build/src/parser/CMakeFiles/rebuild_cache.dir
+/home/rain/Desktop/needle/build/src/parser/CMakeFiles/parser.dir
+/home/rain/Desktop/needle/build/src/parser/CMakeFiles/edit_cache.dir
