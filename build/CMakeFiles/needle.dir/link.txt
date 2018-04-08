@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -std=c++14 -Wall -g3 -pthread  -rdynamic CMakeFiles/needle.dir/src/dummy.cpp.o CMakeFiles/needle.dir/src/main.cpp.o  -o needle -Wl,-rpath,/home/rain/Desktop/needle/build libneedle.so src/parser/libparser.a 
